@@ -57,7 +57,7 @@ Node *createTree()
     return root;
 }
 int main()
-{Tree
+{
     Node *root = createTree();
     int size1 = sizeOfTreeUsingQueue(root);
     int size2 = getSize(root);
