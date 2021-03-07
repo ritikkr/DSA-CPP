@@ -1,0 +1,35 @@
+                         Tree Data Structure
+- Node
+- root
+- leaf = node with degree 0
+- child
+- parent
+- subtree
+- descendent
+- ancestors
+- degree = no of child
+- internal = all nodes except leaf
+
+                        Application of Tree
+---- to represent hierarichal Data
+    - organization Structure
+    - folder Structure
+    - xml/html Structure
+    - in OOPS(inheritance)
+---- Binary Search Tree
+---- Binary heap
+---- B and B+ tree in DBMS
+---- Spanning and shortest path tree in computer network
+---- Parse Tree, Expression in compiler
+
+
+                            Binary Tree
+Binary Tree has at most two children
+
+                                Tree Traversal
+
+--- Breadth First(or level order)
+--- Depth First
+    -Inorder
+    -Preorder
+    -Postorder
