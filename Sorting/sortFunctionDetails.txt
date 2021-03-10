@@ -11,3 +11,9 @@ arr[] = {("Anil", 50), ("Ayan", 80), ("Piyush", 50), ("Rakesh", 80)}
 increasing order of marks, if marks is same then alphabetically
 
 Stability in Sorting algorithm means if two item have same value then they appear in same order as it was in original array
+("Anil", 50), ("Piyush", 50), ("Ayan", 80), ("Rakesh", 80)
+
+for an Unstable algorithm order doesn't matter
+
+Example  Stable Sorting : Bubble Sort, Insertion Sort, Merge Sort
+Example Unstable Sorting: Selection Sort, Quick Sort, Heap Sort
