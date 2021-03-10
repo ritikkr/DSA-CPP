@@ -1,5 +1,13 @@
 sort function uses by default quick sort and if quick sort is taking more time(more than O(nlogn))
 and if doing unfair partitioning , it switches to heap sort and when your array size 
 becomes small it switches to insertion sort
+
 Worst case and average case : O(nlogn)
-uses introSort(hybrid of quicksort, heapsort and insertion sort)
+
+uses introSort(hybrid of quicksort, heapsort and insertion sort
+                           
+                        Stability in Sorting Algorithm
+arr[] = {("Anil", 50), ("Ayan", 80), ("Piyush", 50), ("Rakesh", 80)}
+increasing order of marks, if marks is same then alphabetically
+
+Stability in Sorting algorithm means if two item have same value then they appear in same order as it was in original array
