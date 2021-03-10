@@ -1,0 +1,5 @@
+sort function uses by default quick sort and if quick sort is taking more time(more than O(nlogn))
+and if doing unfair partitioning , it switches to heap sort and when your array size 
+becomes small it switches to insertion sort
+Worst case and average case : O(nlogn)
+uses introSort(hybrid of quicksort, heapsort and insertion sort)
